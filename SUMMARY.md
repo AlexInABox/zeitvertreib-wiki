@@ -1,3 +1,3 @@
 # Table of contents
 
-* [zeitvertreib-wiki](README.md)
+* [Heyy!](README.md)
