@@ -21,80 +21,33 @@ layout:
 # 🎮 Willkommen bei Zeitvertreib!
 
 {% hint style="success" %}
-**Bereit für ein unvergessliches SCP:SL Erlebnis?** Tauche ein in unsere einzigartige Server-Community!
+**Bereit für ein SCP:SL-Erlebnis für Einsteiger?** Zeitvertreib bietet dir eine freundliche, einladende und gut moderierte Community!
 {% endhint %}
 
 Willkommen in der **offiziellen Dokumentation** des [**Zeitvertreib SCP:SL Servers**](https://dsc.gg/zeit)! 🚀
 
-Hier findest du alles, was du für das ultimative Gaming-Erlebnis benötigst:
+## ❓ Was ist Zeitvertreib?
 
-## 🎯 Was dich erwartet
+Zeitvertreib ist ein [**SCP: Secret Laboratory**](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/) Server, der besonderen Fokus auf Anfängerfreundlichkeit und Quality-of-Life Plugins setzt. Wir arbeiten kontinuierlich an der Verbesserung des Spielerlebnisses für Anfänger sowie bereits versierte Spieler!
 
-<div data-full-width="false">
+🌈 **Vielfalt & Toleranz:** Wir sind offen und tolerant gegenüber allen Religionen, Sexualitäten und Lebensweisen. Jeder ist bei uns willkommen!
 
-<figure><img src=".gitbook/assets/insurgent_submission_1.png" alt="Zeitvertreib Server Banner"><figcaption><p>Erlebe SCP:SL wie nie zuvor!</p></figcaption></figure>
+⚡ **Echtzeit-Moderation:** Unser aktives Moderationsteam kümmert sich stets in Echtzeit um alle Probleme und sorgt für ein faires Spielumfeld.
 
-</div>
+🎪 **Spannende Events:** Unser Event-Manager Team organisiert regelmäßig unterhaltsame Events und sorgt für Abwechslung im Spielalltag!
 
-### 📋 Schnellstart-Guide
+## 🎯 Was ist diese Wiki?
 
-* 🔗 **Server beitreten:** Direkt über Steam oder unseren Discord
-* 📖 **Regeln lesen:** Wichtig für ein faires Miteinander
-* 🎭 **Custom Rollen entdecken:** Einzigartige Spielerfahrungen
-* 🛡️ **Team kennenlernen:** Unsere freundlichen Moderatoren
+Diese Wiki ist deine zentrale Anlaufstelle für alles, was du über den Zeitvertreib SCP:SL Server wissen musst! Hier findest du:
 
-### ✨ Server-Highlights
+- **📋 Schnellstart-Guide:** Wie du auf unserem Server spielen kannst, inklusive Verbindungsanleitung und erster Schritte.
+- **📖 Regeln und Beispiele:** Eine klare Übersicht unserer Server-Regeln mit praktischen Beispielen, um Missverständnisse zu vermeiden.
+- **🎭 Custom Rollen und Plugins:** Detaillierte Erklärungen zu unseren einzigartigen Rollen und maßgeschneiderten Plugins, die das Spielerlebnis verbessern und lustiger machen ^^
+- **🛡️ Teamübersicht:** Lerne unser engagiertes Moderationsteam kennen, das für ein faires und sicheres Spielerlebnis sorgt.
+- **📞 Kontaktmöglichkeiten:** Alle Wege, wie du uns erreichen kannst, sei es über Discord, Support-Tickets oder E-Mail.
 
-{% tabs %}
-{% tab title="🎪 Custom Content" %}
-**Einzigartige Features nur bei uns:**
+Diese Wiki wird regelmäßig aktualisiert, um dir die neuesten Informationen und Updates zu bieten. Viel Spaß beim Erkunden!
 
-* 🎭 Exklusive Custom Rollen mit besonderen Fähigkeiten
-* 🎨 Maßgeschneiderte Plugins für mehr Spielspaß
-* 🏆 Spezielles Ranking-System
-* 🎁 Belohnungen für aktive Spieler
-{% endtab %}
-
-{% tab title="👥 Community" %}
-**Eine lebendige Gaming-Community:**
-
-* 💬 Aktiver Discord Server mit 24/7 Support
-* 🎮 Regelmäßige Events und Turniere
-* 🤝 Freundliche und hilfsbereite Community
-* 📸 Screenshots und Clips teilen
-{% endtab %}
-
-{% tab title="🛡️ Moderation" %}
-**Faire und professionelle Betreuung:**
-
-* 👮 Erfahrenes Moderatorenteam
-* ⚖️ Klare und faire Regeln
-* 🚫 Null-Toleranz für Toxizität
-* 📞 Schnelle Hilfe bei Problemen
-{% endtab %}
-{% endtabs %}
-
-### 🚀 Sofort loslegen
-
-{% hint style="info" %}
-**Neu hier?** Schau dir unseren [**Einsteiger-Guide**](guides/getting-started.md) an!
-{% endhint %}
-
-1. **📖** Lies die [Server-Regeln](server-info/rules.md)
-2. **🎮** Verbinde dich mit unserem Server
-3. **💬** Tritt unserem [Discord](https://dsc.gg/zeit) bei
-4. **🎉** Hab Spaß und spiele fair!
-
-### 📞 Kontakt & Support
-
-Brauchst du Hilfe oder hast Fragen? Unser Team ist für dich da:
-
-* 💬 **Discord:** [dsc.gg/zeit](https://dsc.gg/zeit)
-* 🎫 **Support-Ticket:** Über unseren Discord
-* 📧 **E-Mail:** Für wichtige Anliegen
-
----
-
-{% hint style="warning" %}
-**Wichtiger Hinweis:** Diese Dokumentation wird regelmäßig aktualisiert. Schau öfter vorbei für die neuesten Informationen!
-{% endhint %}
+[🎪 Custom Content](custom-content/custom-roles/README.md)
+[👥 Community](events/calendar.md)
+[🛡️ Moderation](server-info/rules.md)
