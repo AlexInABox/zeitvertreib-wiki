@@ -40,25 +40,26 @@ Zeitvertreib ist ein [**SCP: Secret Laboratory**](https://store.steampowered.com
 
 Diese Wiki ist deine zentrale Anlaufstelle für alles, was du über den Zeitvertreib SCP:SL Server wissen musst! Hier findest du:
 
-- **📋 Schnellstart-Guide:** Wie du auf unserem Server spielen kannst, inklusive Verbindungsanleitung und erster Schritte.  
-  {% content-ref url="guides/getting-started.md" %}  
-  .  
-  {% endcontent-ref %}
-- **📖 Regeln und Beispiele:** Eine klare Übersicht unserer Server-Regeln mit praktischen Beispielen, um Missverständnisse zu vermeiden.  
-  {% content-ref url="server-info/rules.md" %}  
-  .  
-  {% endcontent-ref %}
-- **🎭 Custom Rollen und Plugins:** Detaillierte Erklärungen zu unseren einzigartigen Rollen und maßgeschneiderten Plugins, die das Spielerlebnis verbessern und lustiger machen ^^  
-  {% content-ref url="custom-content/custom-roles/README.md" %}  
-  .  
-  {% endcontent-ref %}
-- **🛡️ Teamübersicht:** Lerne unser engagiertes Moderationsteam kennen, das für ein faires und sicheres Spielerlebnis sorgt.  
-  {% content-ref url="team/structure.md" %}  
-  .  
-  {% endcontent-ref %}
-- **📞 Kontaktmöglichkeiten:** Alle Wege, wie du uns erreichen kannst, sei es über Discord, Support-Tickets oder E-Mail.  
-  {% content-ref url="./" %}  
-  .  
-  {% endcontent-ref %}
+- **📋 Schnellstart-Guide:** Wie du auf unserem Server spielen kannst, inklusive Verbindungsanleitung und erster Schritte.
+- **📖 Regeln und Beispiele:** Eine klare Übersicht unserer Server-Regeln mit praktischen Beispielen, um Missverständnisse zu vermeiden.
+- **🎭 Custom Rollen und Plugins:** Detaillierte Erklärungen zu unseren einzigartigen Rollen und maßgeschneiderten Plugins, die das Spielerlebnis verbessern und lustiger machen ^^
+- **🛡️ Teamübersicht:** Lerne unser engagiertes Moderationsteam kennen, das für ein faires und sicheres Spielerlebnis sorgt.
+- **📞 Kontaktmöglichkeiten:** Alle Wege, wie du uns erreichen kannst, sei es über Discord, Support-Tickets oder E-Mail.
 
 Diese Wiki wird regelmäßig aktualisiert, um dir die neuesten Informationen und Updates zu bieten. Viel Spaß beim Erkunden!
+
+{% content-ref url="guides/getting-started.md" %}
+.
+{% endcontent-ref %}
+
+{% content-ref url="server-info/rules.md" %}
+.
+{% endcontent-ref %}
+
+{% content-ref url="custom-content/custom-roles/README.md" %}
+.
+{% endcontent-ref %}
+
+{% content-ref url="team/structure.md" %}
+.
+{% endcontent-ref %}
