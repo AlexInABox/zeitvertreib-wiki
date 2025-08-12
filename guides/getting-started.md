@@ -1,6 +1,8 @@
 ---
 icon: baby
 description: Dein kompletter Einsteiger-Guide für das Spiel SCP:SL und unseren Zeitvertreib SCP:SL Server
+cover: .gitbook/assets/drwaechter_submission_1.jpg
+coverY: 0
 ---
 
 # 👶 Einsteiger-Guide
