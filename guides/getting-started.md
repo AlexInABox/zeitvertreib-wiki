@@ -1,11 +1,30 @@
 ---
+description: >-
+  Dein kompletter Einsteiger-Guide für das Spiel SCP:SL und unseren Zeitvertreib
+  SCP:SL Server
 icon: baby
-description: Dein kompletter Einsteiger-Guide für das Spiel SCP:SL und unseren Zeitvertreib SCP:SL Server
-cover: .gitbook/assets/drwaechter_submission_1.jpg
+cover: ../.gitbook/assets/drwaechter_submission_1.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 👶 Einsteiger-Guide
+# Einsteiger-Guide
 
 {% hint style="success" %}
 **Herzlich willkommen!** Du bist neu bei SCP:SL oder unserem Server? Dieser Guide führt dich Schritt für Schritt durch alles Wichtige!
@@ -107,10 +126,10 @@ Klicke auf "Beitreten" oder den Spielenknopf und das Abenteuer beginnt!
 
 #### 🗝️ Wichtige Gegenstände
 
-| Gegenstand | Beschreibung |
-|-----------|-------------|
+| Gegenstand       | Beschreibung                            |
+| ---------------- | --------------------------------------- |
 | 🗝️ **Keycards** | Öffnen verschiedene Türen je nach Level |
-| 💊 **Medkits** | Heilen Gesundheit |
+| 💊 **Medkits**   | Heilen Gesundheit                       |
 
 ## 🎊 Besonderheiten auf unserem Server
 
@@ -157,7 +176,7 @@ Wenn du Fragen hast oder Hilfe brauchst:
 * [📜 Server-Regeln](../server-info/rules.md)
 * [🎭 Custom Rollen](../custom-content/custom-roles/)
 
----
+***
 
 {% hint style="success" %}
 **Bereit zu spielen?** Dann spring ins Spiel und erlebe das Zeitvertreib-Abenteuer! Bei Fragen sind wir immer da. 🎮
