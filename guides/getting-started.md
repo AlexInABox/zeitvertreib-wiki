@@ -1,6 +1,6 @@
 ---
 icon: baby
-description: Dein kompletter Einsteiger-Guide für den Zeitvertreib SCP:SL Server
+description: Dein kompletter Einsteiger-Guide für das Spiel SCP:SL und unseren Zeitvertreib SCP:SL Server
 ---
 
 # 👶 Einsteiger-Guide
@@ -19,11 +19,11 @@ description: Dein kompletter Einsteiger-Guide für den Zeitvertreib SCP:SL Serve
 {% tab title="🧪 SCPs" %}
 **Die anomalen Entitäten:**
 
-* 🦴 **SCP-173** - Der Skulptur (bricht Genick bei Blickkontaktverlust)
-* 👁️ **SCP-096** - Der schüchterne Kerl (wird wütend wenn angeschaut)
-* 🐕 **SCP-939** - Mit vielen Stimmen (imitiert Spielerstimmen)
-* 💻 **SCP-079** - Old AI (kontrolliert Türen und Systeme)
-* 🔥 **SCP-049** - Pestdoktor (verwandelt Tote in Zombies)
+* 🦴 **SCP-173** - Peanut (bricht Genick bei Blickkontaktverlust)
+* 👁️ **SCP-096** - Shy-Guy (wird wütend wenn angeschaut)
+* 🐕 **SCP-939** - Hund (imitiert Soundeffekte!)
+* 💻 **SCP-079** - Computer (kontrolliert die Lichter und Türen)
+* 🔥 **SCP-049** - Doktor (verwandelt Tote in Zombies)
 
 **Ziel:** Eliminiere alle Menschen!
 {% endtab %}
@@ -31,18 +31,18 @@ description: Dein kompletter Einsteiger-Guide für den Zeitvertreib SCP:SL Serve
 {% tab title="👨‍🔬 Menschen" %}
 **Die Facility-Bewohner:**
 
-* 🔬 **Wissenschaftler** - Flüchte zur Oberfläche
-* 🛡️ **Sicherheitspersonal** - Beschütze die Facility
-* 👔 **Klasse-D Personal** - Entkomme aus der Facility
+* 🔬 **Wissenschaftler** - Lass dich nicht von den D-Klassen aufessen ^^
+* 🛡️ **Sicherheitspersonal** - Töte alles was sich bewegt!
+* 👔 **Klasse-D Personal** - Entkomme aus der Facility ohne zu sterben!!
 
-**Ziel:** Überlebe und erreiche dein Klassenziel!
+**Ziel:** Überlebe oder werde gerettet!
 {% endtab %}
 
 {% tab title="🪖 Militär" %}
 **Die Verstärkung:**
 
 * 🎖️ **Mobile Task Force (MTF)** - Rette Wissenschaftler, eliminiere Bedrohungen
-* 🔫 **Chaos Insurgency (CI)** - Rette D-Klasse Personal, stehle SCPs
+* 🔫 **Chaos Insurgency (CI)** - Rette D-Klassen, zerstöre die Facility!
 
 **Ziel:** Erfülle deine Mission!
 {% endtab %}
@@ -62,13 +62,19 @@ Starte SCP: Secret Laboratory über Steam
 {% step %}
 **Server finden**
 
-Suche in der Serverliste nach "**Zeitvertreib**" oder nutze unsere IP
+Suche in der Serverliste nach "**Zeitvertreib**"
+{% endstep %}
+
+{% step %}
+**Server speichern**
+
+Klicke einmal auf den Stern neben dem Servernamen um Zeitvertreib in Zukunft einfacher zu finden!
 {% endstep %}
 
 {% step %}
 **Beitreten**
 
-Klicke auf "Join" und das Abenteuer beginnt!
+Klicke auf "Beitreten" oder den Spielenknopf und das Abenteuer beginnt!
 {% endstep %}
 {% endstepper %}
 
@@ -80,23 +86,21 @@ Klicke auf "Join" und das Abenteuer beginnt!
 
 **Die wichtigsten Regeln im Überblick:**
 
-* 🚫 **Kein Teamkilling** (außer in besonderen Situationen)
-* 💬 **Kein Spam** im Voice- oder Text-Chat
-* 🎭 **Kein Mic-Spam** oder laute Musik
+* 🚫 **Kein Teamkilling oder Trolling** (außer es wäre WIRKLICH lustig ^^)
+* 🎭 **Kein Mic-Spam** im Spectatorchat!
 * 🤝 **Respektvoller Umgang** mit allen Spielern
-* 🏃 **Kein Camping** in Spawn-Räumen
+* 🏃 **Kein Camping** in Räumen
 
 ### 3. 🎮 Grundlagen lernen
 
 #### 🎯 Steuerung
 
 * **WASD** - Bewegung
-* **Shift** - Laufen
-* **Ctrl** - Ducken
-* **E** - Interagieren
-* **F** - Taschenlampe
+* **Shift** - Rennen
+* **Ctrl** - Schleichen
+* **E** - Sachen aufheben und Interagieren
+* **F** - Taschenlampe auf deiner Waffe (falls eine drauf ist!)
 * **Tab** - Inventar
-* **M** - Karte
 * **V** - Voice Chat (Push-to-Talk)
 
 #### 🗝️ Wichtige Gegenstände
@@ -104,10 +108,7 @@ Klicke auf "Join" und das Abenteuer beginnt!
 | Gegenstand | Beschreibung |
 |-----------|-------------|
 | 🗝️ **Keycards** | Öffnen verschiedene Türen je nach Level |
-| 🔋 **Batterie** | Für SCP-079's Energie |
 | 💊 **Medkits** | Heilen Gesundheit |
-| 🍪 **SCP-330** | Süßigkeiten mit zufälligen Effekten |
-| 🧪 **SCP-500** | Vollständige Heilung |
 
 ## 🎊 Besonderheiten auf unserem Server
 
@@ -123,12 +124,12 @@ Klicke auf "Join" und das Abenteuer beginnt!
 * 🎪 **Spezial-Events** an Wochenenden
 * 🔌 **Unique Plugins** für mehr Spielspaß
 
+Mehr Infos dazu findest du auf unserem Discord Server! (Einfach mal fragen ^^)
+
 ### 🌟 Community-Features
 
-* 💬 **Discord Integration** für bessere Kommunikation
-* 📊 **Statistiken** zur Verfolgung deines Fortschritts
-* 🎮 **Friend-System** zum Spielen mit Freunden
-* 🏅 **Achievements** für besondere Leistungen
+* 📊 **Statistiken** zur Verfolgung deines Fortschritts auf unserer Website! (https://dev.zeitverreib.vip/dashboard)
+* 🎮 **Friend-System** zum Spielen mit Freunden (soon!)
 
 ## 🎓 Tipps für Anfänger
 
@@ -136,37 +137,7 @@ Klicke auf "Join" und das Abenteuer beginnt!
 
 1. **🎧 Nutze Kopfhörer** - Audio ist in SCP:SL extrem wichtig
 2. **👥 Arbeite im Team** - Kommunikation ist der Schlüssel
-3. **🗺️ Lerne die Karte** - Orientierung hilft beim Überleben
-4. **⏰ Sei geduldig** - Jede Runde ist anders und einzigartig
-5. **🎮 Hab Spaß** - Es ist nur ein Spiel!
-
-### 🎯 Rollen-spezifische Tipps
-
-{% tabs %}
-{% tab title="👨‍🔬 Als Wissenschaftler" %}
-* 🏃 **Bewege dich schnell** zur Oberfläche
-* 🗝️ **Sammle Keycards** für besseren Zugang
-* 👂 **Höre auf Geräusche** - SCPs machen Lärm
-* 🤝 **Arbeite mit Security** zusammen
-* 📻 **Nutze die Intercom** für Koordination
-{% endtab %}
-
-{% tab title="🛡️ Als Security" %}
-* 🔫 **Bewaffne dich** in der Armory
-* 👨‍🔬 **Beschütze Wissenschaftler** 
-* 🎯 **Lerne SCP-Schwächen** 
-* 🗝️ **Upgrade deine Keycard**
-* 💊 **Verwalte deine Medkits** weise
-{% endtab %}
-
-{% tab title="👔 Als D-Klasse" %}
-* 🏃 **Entkomme schnell** aus Light Containment
-* 🗝️ **Finde eine Keycard** so schnell wie möglich
-* 🤝 **Vertraue niemandem** zu 100%
-* 🔍 **Durchsuche Räume** nach nützlichen Items
-* 💡 **Nutze dein Wissen** über SCP-Verhaltensweisen
-{% endtab %}
-{% endtabs %}
+3. **🎮 Hab Spaß** - Es ist nur ein Spiel!
 
 ## 🆘 Hilfe benötigt?
 
@@ -182,9 +153,7 @@ Wenn du Fragen hast oder Hilfe brauchst:
 ### 🔗 Nützliche Links
 
 * [📜 Server-Regeln](../server-info/rules.md)
-* [🎮 Verbindungs-Guide](how-to-connect.md)
 * [🎭 Custom Rollen](../custom-content/custom-roles/)
-* [❓ FAQ](../resources/faq.md)
 
 ---
 
